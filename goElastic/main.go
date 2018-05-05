@@ -13,7 +13,7 @@ import (
 
 var (
 	client = http.Client{}
-	url    = "http://172.25.32.22:8545"
+	url    = ""
 )
 
 type block struct {
